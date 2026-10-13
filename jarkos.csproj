@@ -1,0 +1,24 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  
+  <Import Project="BuildTools\KBOFXCTask.props" />
+  <Import Project="BuildTools\KBOFXCTask.targets" />
+  <PropertyGroup>
+    <AssemblyName>jarkos</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+  <Reference Include="StructureHelper">
+	  <HintPath>..\ModAssemblies\StructureHelper_v3.0.1.dll</HintPath>
+	</Reference>
+
+  <Reference Include="Luminance">
+	  <HintPath>..\ModAssemblies\Luminance_v1.0.6.dll</HintPath>
+	</Reference>
+
+  </ItemGroup>
+
+</Project>

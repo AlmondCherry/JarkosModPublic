@@ -1,0 +1,7 @@
+displayName = Jarkos Mod
+author = Jarkos DevTeam
+version = 1.3
+includePDB = true
+hideCode = true
+hideResources = true
+modReferences = Luminance, StructureHelper

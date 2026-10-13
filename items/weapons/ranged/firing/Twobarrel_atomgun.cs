@@ -1,0 +1,53 @@
+﻿using Terraria;
+using Terraria.ID;
+using Terraria.ModLoader;
+using Microsoft.Xna.Framework;
+using Terraria.DataStructures;
+using Jarkos.projectiles.mecha;
+using jarkos.items.materials;
+namespace Jarkos.items.weapons.ranged.firing
+{
+	public class Twobarrel_atomgun : ModItem
+	{
+		public override void SetDefaults()
+        {
+            Item.damage = 48;
+            Item.DamageType = DamageClass.Ranged;
+            Item.width = 60;
+            Item.height = 28;
+            Item.useTime = 12;
+            Item.useAnimation = 12;
+            Item.useStyle = ItemUseStyleID.Shoot;
+            Item.noMelee = true;
+            Item.knockBack = 2f;
+            Item.UseSound = SoundID.Item91;
+            Item.autoReuse = true;
+            Item.channel = true;
+            Item.noUseGraphic = true;
+            Item.shoot = ModContent.ProjectileType<Twobarrel_atomgun_Holdout>();
+            Item.shootSpeed = 18f;
+
+            Item.rare = ItemRarityID.LightRed;
+            Item.value = Item.sellPrice(0, 2, 0, 0);
+        }
+        public override void ModifyShootStats(Player player, ref Vector2 position, ref Vector2 velocity, ref int type, ref int damage, ref float knockback)
+        {
+            velocity = velocity.RotatedByRandom(MathHelper.ToRadians(2));
+        }
+        public override bool Shoot(Player player, EntitySource_ItemUse_WithAmmo source, Vector2 position, Vector2 velocity, int type, int damage, float knockback)
+        {
+            return true;
+        }
+        public override Vector2? HoldoutOffset()
+        {
+            return new Vector2(-10, 5);
+        }
+		public override void AddRecipes() {
+			CreateRecipe(1)
+            .AddIngredient(ModContent.ItemType<Atom_gun>(), 1)
+			.AddIngredient(ModContent.ItemType<FortifiedPlate>(), 8)
+			.AddTile(TileID.MythrilAnvil)
+			.Register();
+		}
+	}
+}

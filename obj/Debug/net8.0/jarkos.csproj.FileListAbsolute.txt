@@ -1,0 +1,17 @@
+c:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.csproj.AssemblyReference.cache
+c:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.AssemblyInfoInputs.cache
+c:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.AssemblyInfo.cs
+c:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\bin\Debug\net8.0\jarkos.deps.json
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\bin\Debug\net8.0\jarkos.dll
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\bin\Debug\net8.0\jarkos.pdb
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\bin\Debug\net8.0\Luminance_v1.0.6.dll
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\bin\Debug\net8.0\StructureHelper_v3.0.1.dll
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\bin\Debug\net8.0\Luminance_v1.0.6.xml
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.sourcelink.json
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.csproj.Up2Date
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.dll
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\refint\jarkos.dll
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\jarkos.pdb
+C:\Users\qwerty\Documents\My Games\Terraria\tModLoader\ModSources\jarkos\obj\Debug\net8.0\ref\jarkos.dll

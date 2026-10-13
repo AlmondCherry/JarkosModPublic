@@ -1,0 +1,26 @@
+[i:jarkos/blood_droplet][c/DA2C2C: JARKOS] [i:jarkos/blood_droplet]
+This mod introduce additional game-content to the game for more enjoyable gameplay.
+Also this mod have [c/FAFF57: Quality of Life] settings in configuration.
+
+[i:jarkos/tenderote_material]Multiplayer compability: [c/5768FF: questionable]
+
+[i:jarkos/Celestial_Shell]What's[c/FAFF57: new] in this mod?
+- new 2 bosses
+- +100 weapons
+- +40 accessories
+- +300 All of items
+- new fifth playable class
+- industrial thematic
+- and more
+--------------------------------
+[i:jarkos/Radiant_Generator]Special thanks to:
+- [i:75]Smel(Smelecov), for editing videos, promotion and etc.
+- [i:75]Kermitus, for drawing most of the armor sets.
+- [i:75]Autism, for drawing sprites.
+- [i:75]Mythicalwinda, for drawing sprites and translate help.
+- [i:75]Banan, for drawing sprites, helping with code and many of ideas.
+--------------------------------
+[i:jarkos/elemental_gem]Social media of mod development:
+- [i:549]Our discord server: https://discord.gg/DT28aY4S3f
+- [i:549]Our X: https://x.com/JarkosOfficial
+- [i:549]Our YouTube channel: https://www.youtube.com/channel/UCrUYQuFvQPBaawMCbnTrbgQ

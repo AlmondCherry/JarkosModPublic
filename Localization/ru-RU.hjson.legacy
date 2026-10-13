@@ -1,0 +1,21 @@
+
+Mods: {
+	jarkos: {
+		Items: {
+
+
+			slovo_berserka: {
+				// DisplayName: Example Last Prism
+				/* Tooltip:
+					'''
+					A slightly different laser-firing Prism
+					Ignores NPC immunity frames and fires 10 beams at once instead of 6
+					''' */
+								}
+
+
+
+			   }
+
+		}
+	}
